@@ -1,0 +1,2 @@
+# pingutility
+static ping
